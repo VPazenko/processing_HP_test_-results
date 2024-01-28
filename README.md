@@ -40,6 +40,18 @@ The analysis includes:
 
 ## Conclusion
 
+1. Correlation between two type of load for BT is very strong (if exclude '+/-' results, corr = 90%)
+
+It is notable that the introduction of a cat-value for histology of 10% changed the correlations. 
+2. Histology across regions became even more correlated with each other (73% to 89%), which is considered a strong correlation.
+
+3. Both loads for breath tests show strong correlation (70% and 71%) with total gastric infection status.
+
+4. PCR shows good correlation with BT (65% and 58%) and with total Histology status (62%) 
+
+5. RUT shows the good correlation with Heliforce BT (59%)
+   
+6. The recovery of missing data had some impact on the final Heatmap. For most positions, the correlation changed between -1% and 7%
 
 ## How to Use
 1. Clone the repository.
