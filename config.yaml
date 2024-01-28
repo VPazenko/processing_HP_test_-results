@@ -1,0 +1,3 @@
+data: 'HP_tests_final.xlsx'
+recheck_hystology: 'recheck_hystology.xlsx'
+json_path: 'json_dict.json'
