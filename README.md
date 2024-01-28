@@ -27,10 +27,11 @@ The analysis includes:
 - `HP_tests.ipynb`: Jupyter Notebook containing the complete analysis workflow
 - `config.yaml`: Configuration file with data file path
 - `Summary_functions_and_code_clean_v15.py`: Module containing custom statistical functions used in the analysis (Author: M.E.F. Apol)
-- 'module.py': : Module containing custom functions used for data processing and visualization 
+- `module.py`: : Module containing custom functions used for data processing and visualization
+- `json_dict.json`: Auxiliary file. It is used for renaming columns and strict positioning.
 - `HP_tests_final.xlsx`: Dataset used for analysis (not included in this repository)
-- 'recheck_hystology.xlsx': Dataset used for analysis (not included in this repository)
-- 'json_dict.json': Auxiliary file. It is used for renaming columns and strict positioning.
+- `recheck_hystology.xlsx`: Dataset used for analysis (not included in this repository)
+
 
 ## Analysis Details
 - Data Inspection: Examining dataset structure, missing values, and data types
