@@ -28,6 +28,8 @@ The analysis includes:
 - `Summary_functions_and_code_clean_v15.py`: Module containing custom statistical functions used in the analysis (Author: M.E.F. Apol)
 - `module.py`: : Module containing custom functions used for data processing and visualization
 - `json_dict.json`: Auxiliary file. It is used for renaming columns and strict positioning.
+  
+Unfortunately, at this time, these datasets have been provided by a private company and are not available for public download. Perhaps in the future, they may become publicly available if an article based on this study is published.
 - `HP_tests_final.xlsx`: Dataset used for analysis (not included in this repository)
 - `recheck_hystology.xlsx`: Dataset used for analysis (not included in this repository)
 
