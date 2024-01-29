@@ -17,7 +17,6 @@ The aim of this analysis is 1) To compare UBT test of Russian-made Helicarb with
 ## Methodology
 The analysis includes:
 - Data cleaning and preprocessing
-- Exploratory data analysis (EDA) to visualize and understand data distributions
 - Visualization of interactions between various factors that could affecting on test results
 
 - Missing data recovery 
