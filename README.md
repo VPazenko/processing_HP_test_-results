@@ -55,7 +55,7 @@ It is notable that the introduction of a cat-value for histology of 10% changed 
 
 ## How to Use
 1. Clone the repository.
-2. Ensure required dependencies are installed (see requirements.txt)
+2. Ensure required dependencies are installed (see `requirements.txt`)
 3. Execute `HP_tests.ipynb` in a Jupyter Notebook environment.
 
 ## Author
